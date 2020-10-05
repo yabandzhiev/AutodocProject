@@ -4,3 +4,5 @@ This Project is about making
 * Validation of the Software
 * Specifications of the Software
 * Price of the Software
+
+*Disclaimer: It is written in Bulgarian*
