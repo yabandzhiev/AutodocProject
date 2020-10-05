@@ -1,2 +1,6 @@
-# EntityRelationship
-This Project is about making an ER of self-chosen product using Microsoft Visio. In my example it is Autodoc.
+# AutodocProject
+This Project is about making
+* Diagrams of the chosen product using Microsoft Visio.
+* Validation of the Software
+* Specifications of the Software
+* Price of the Software
